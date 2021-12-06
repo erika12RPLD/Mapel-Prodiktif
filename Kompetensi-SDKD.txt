@@ -9,3 +9,4 @@ c. Github
 - membuat file baru
 - membuat commit
 d. Git
+- belum
