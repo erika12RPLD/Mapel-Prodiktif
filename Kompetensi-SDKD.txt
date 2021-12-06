@@ -6,4 +6,7 @@ b. Komunikasi daring Asinkron
 c. Github
 - membuat akun 
 - membuat repostory
+- membuat file baru
+- membuat commit
 d. Git
+- belum
